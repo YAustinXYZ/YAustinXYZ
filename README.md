@@ -34,6 +34,7 @@ I'm currently developing **Teclia Academia**, a piano learning platform that com
 When I'm not coding, I'm thinking about design, music, or how to make the next interaction feel just a little more magical.
 
 
+```javascript
 const YAustinXYZ = {
   role:          "Frontend Developer",
   university:    "Universidad Técnica Nacional — Costa Rica 🇨🇷",
@@ -44,7 +45,7 @@ const YAustinXYZ = {
   goal:          "Build products that are beautiful, fast, and meaningful",
   funFact:       "I believe great UI is invisible — users just feel it ✨"
 };
-
+```
 
 ---
 
