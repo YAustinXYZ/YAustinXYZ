@@ -1,48 +1,127 @@
 <div align="center">
 
-<!-- Hero banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=220&gradient=45:0A0A0A,6E40C9,C9A84C&text=Austin%20Carranza&fontSize=48&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20Software%20Engineer&descSize=16&descAlignY=72&animation=fadeIn"/>
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                    HERO — LAYER 1                    -->
+<!-- ═══════════════════════════════════════════════════ -->
 
-<!-- Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=C9A84C&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+Product+Builder;React+%26+Next.js+in+Production;Shipped+Teclia+Academia;Crafting+interfaces+with+purpose" alt="typing animation"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&gradient=360:0a0a0f,1a1035,6E40C9,C9A84C&stroke=6E40C9&strokeWidth=2&animation=twinkling&fontColor=fff&fontSize=52&fontAlignY=38&desc=Frontend%20Developer%20%26%20Software%20Engineer&descSize=18&descAlignY=62&descAlign=50"/>
 
 <br/><br/>
 
-<!-- Social -->
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                    HERO — LAYER 2                    -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr>
+<td width="220" align="center" valign="top">
+
+<img src="https://github.com/YAustinXYZ.png" width="200" height="200" alt="Austin Carranza"
+  style="border-radius: 50%; border: 3px solid #6E40C9; padding: 6px; background: linear-gradient(#0a0a0f, #1a1035);"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Status-Available%20for%20collaboration-22C55E?style=for-the-badge&labelColor=0a0a0f"/>
+<br/>
+<img src="https://img.shields.io/badge/Location-Costa%20Rica-6E40C9?style=for-the-badge&labelColor=0a0a0f"/>
+<br/>
+<img src="https://img.shields.io/badge/UTN-Software%20Engineering-C9A84C?style=for-the-badge&labelColor=0a0a0f"/>
+
+</td>
+<td valign="top" align="left">
+
+<h1>Austin Carranza</h1>
+<h3><code>YAustinXYZ</code> — Frontend Developer</h3>
+
+<p align="left">
+I build <b>production-grade web applications</b> where design precision meets engineering discipline.
+<br/><br/>
+Currently maintaining <a href="https://github.com/YAustinXYZ/Teclia-Academy"><b>Teclia Academia</b></a> — a piano learning platform shipped end-to-end — and developing <a href="https://github.com/YAustinXYZ/ding-payments"><b>Ding Payments</b></a>, an NFC payment system on the Stellar network.
+<br/><br/>
+Software Engineering student at <b>Universidad Tecnica Nacional</b>, Costa Rica. Focused on React, Next.js, TypeScript, and interfaces that feel invisible when they work.
+</p>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=C9A84C&center=false&vCenter=false&width=620&lines=Building+Teclia+Academia;React+%2B+Next.js+in+Production;Java+%7C+C%2B%2B+%7C+C%23+%7C+TypeScript;Crafting+interfaces+with+intent"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                    HERO — LAYER 3                    -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&gradient=90:6E40C9,C9A84C,6E40C9&color=00000000"/>
+
+<br/><br/>
+
 <a href="https://github.com/YAustinXYZ" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-YAustinXYZ-181717?style=for-the-badge&logo=github&logoColor=white&height=32"/>
 </a>
+&nbsp;
 <a href="https://www.instagram.com/mr_austin_03" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-mr__austin__03-E4405F?style=for-the-badge&logo=instagram&logoColor=white&height=32"/>
+</a>
+&nbsp;
+<a href="https://github.com/YAustinXYZ/Teclia-Academy" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Teclia_Academia-C9A84C?style=for-the-badge&logo=vercel&logoColor=0a0a0f&height=32"/>
 </a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=YAustinXYZ&label=Profile+Views&color=6E40C9&style=for-the-badge"/>
 
+<br/><br/>
+
+<!-- Profile summary card -->
+<img width="720" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YAustinXYZ&theme=radical"/>
+
 </div>
 
-<!-- Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=header&text=&fontSize=0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&text=&fontSize=0"/>
 
 ---
 
-## About
+## Overview
 
-<table>
+<table width="100%">
 <tr>
-<td width="65%" valign="top">
+<td width="33%" align="center" valign="top">
 
-**Austin Carranza** — Frontend Developer and Software Engineering student at **Universidad Tecnica Nacional de Costa Rica**.
+**Shipped Products**
 
-I specialize in building production-ready web applications where **design precision meets solid engineering**. My work spans from interactive educational platforms to fintech prototypes — always with a focus on performance, accessibility, and interfaces that feel effortless.
+Real platforms deployed to production — not tutorial clones or unfinished demos.
 
-Currently maintaining and evolving [**Teclia Academia**](https://github.com/YAustinXYZ/Teclia-Academy), a piano learning platform I designed and shipped end-to-end. Also building [**Ding Payments**](https://github.com/YAustinXYZ/ding-payments), an NFC payment system powered by USDC on the Stellar network.
+<br/>
+
+`Teclia Academia`
+`Ding Payments`
 
 </td>
-<td width="35%" valign="top" align="center">
+<td width="34%" align="center" valign="top">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,java,cpp,cs,tailwind,html,css,git,figma,vscode&perline=4&theme=dark" alt="tech icons"/>
+**Engineering Focus**
+
+Clean architecture, typed codebases, and performance as a core design constraint.
+
+<br/>
+
+`React` `Next.js` `TypeScript`
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**Design Discipline**
+
+Figma-to-code workflows, design systems, and motion used with intent.
+
+<br/>
+
+`Tailwind CSS` `Framer Motion`
 
 </td>
 </tr>
@@ -50,26 +129,31 @@ Currently maintaining and evolving [**Teclia Academia**](https://github.com/YAus
 
 ---
 
-## Developer Profile
+## Developer Identity
 
 ```typescript
-interface Developer {
-  name:        "Austin Carranza";
-  handle:      "YAustinXYZ";
-  location:    "Costa Rica";
-  education:   "Software Engineering — UTN";
-  role:        "Frontend Developer";
+const austin: Developer = {
+  name:       "Austin Carranza",
+  handle:     "YAustinXYZ",
+  location:   "Costa Rica",
+  education:  "Software Engineering — Universidad Tecnica Nacional",
+  role:       "Frontend Developer",
 
-  languages:   ["JavaScript", "TypeScript", "Java", "C++", "C#", "HTML", "CSS"];
-  frameworks:  ["React", "Next.js", "Tailwind CSS"];
-  tools:       ["Git", "GitHub", "Figma", "VS Code"];
+  coreStack: {
+    languages:  ["JavaScript", "TypeScript", "Java", "C++", "C#", "HTML", "CSS"],
+    frontend:   ["React", "Next.js", "Tailwind CSS"],
+    backend:    ["Node.js", "REST APIs"],
+    tools:      ["Git", "GitHub", "Figma", "VS Code", "Vercel"],
+  },
 
-  shipped:     "Teclia Academia — Piano Learning Platform";
-  building:    "Ding Payments — NFC + Stellar/USDC";
+  shipped: [
+    "Teclia Academia — Piano learning platform",
+    "Ding Payments — NFC + USDC Stellar",
+  ],
 
-  principles: {
-    design:    "Every interaction should have intent";
-    code:      "Readable, maintainable, performant";
-    product:   "Ship real value, not demo projects";
-  };
-}
+  principles: [
+    "Clarity over cleverness",
+    "Performance is part of the design",
+    "Ship real products, iterate in production",
+  ],
+};
